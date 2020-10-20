@@ -8,7 +8,7 @@ Currently, the app filters cities based on population size, average annual tempe
 There are two main folders, one for the data processing and one for the React app itself.
 
 ### Why
-I wanted a project that would let me stretch my skills a bit.  I used node.js to scrape and process the data, and React along with some Vanilla JS to render the data in a UI.
+I wanted a project that would let me stretch my skills a bit.  I used node.js to scrape and process the data, and React along with Material-UI and some Vanilla JS to render the data in a UI.
 
 ### Things To Improve
 * **Additional Filter Parameters:**  

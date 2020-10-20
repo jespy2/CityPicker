@@ -1,0 +1,14 @@
+.Header {
+	margin-top: 1em;
+	background: rgb(105, 129, 139);
+	width: 100%;
+	color: white;
+	display: flex;
+    align-items: flex-start;
+    height: 25vh;
+	/* justify-content: space-around; */
+}
+
+.Header-Logo {
+    height: 25vh;
+}
